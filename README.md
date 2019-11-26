@@ -19,5 +19,5 @@ Dataset should be downloaded from here: https://ti.arc.nasa.gov/tech/dash/groups
 
 [Reference]<br/>
 [1] B. Saha and K. Goebel, ``Battery data set,''NASA AMES Prognostics Data Repository, 2007.<br/>
-[2] Choi, Yohwan, et al. "Machine Learning-Based Lithium-Ion Battery Capacity Estimation Exploiting Multi-Channel Charging Profiles." IEEE Access 7 (2019): 75143-75152.
+[2] Choi, Yohwan, et al. "Machine Learning-Based Lithium-Ion Battery Capacity Estimation Exploiting Multi-Channel Charging Profiles." IEEE Access 7 (2019): 75143-75152.<br/>
 Copyright 2019 The MathWorks, Inc.
