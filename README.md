@@ -3,7 +3,7 @@
 
 <img src="https://kr.mathworks.com/matlabcentral/mlc-downloads/downloads/af72b217-588c-4847-ac0f-7f4d1561f32c/8126a482-f2bb-44ec-aada-416e5c2b9309/images/screenshot.png" width="90%"></img></br>
 
-In this demo, I've implemented machine learning based Lithium-Ion battery capacity estimation using multi-Channel charging Profiles.<br/>
+In this demo, using MATLAB, I've implemented machine learning based Lithium-Ion battery capacity estimation using multi-Channel charging Profiles.<br/>
 
 Dataset used in this example is from "Battery data set" from NASA[1].<br/>
 Basic implementation theory and approach is referenced by the recent published paper[2], and they proposed Multi-Channel charging profiles
