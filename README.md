@@ -20,5 +20,5 @@ Dataset should be downloaded from here: https://ti.arc.nasa.gov/tech/dash/groups
 [2] Choi, Yohwan, et al. "Machine Learning-Based Lithium-Ion Battery Capacity Estimation Exploiting Multi-Channel Charging Profiles." IEEE Access 7 (2019): 75143-75152.<br/>
 Copyright 2019 The MathWorks, Inc.
 
-Cite as</br>
+[Cite as]</br>
 Wanbin Song (2019). Machine Learning Lithium-Ion Battery Capacity Estimation (https://www.github.com/wanbin-song/BatteryMachineLearning), GitHub. Retrieved November 26, 2019.
