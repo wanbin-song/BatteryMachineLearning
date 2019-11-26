@@ -1,5 +1,7 @@
 [![View Machine Learning Lithium-Ion Battery Capacity Estimation on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://kr.mathworks.com/matlabcentral/fileexchange/73100-machine-learning-lithium-ion-battery-capacity-estimation)
-# Machine Learning-Based Lithium-Ion Battery Capacity Estimation
+# Machine Learning-Based Lithium-Ion Battery Capacity Estimation</br>
+
+<img src="https://kr.mathworks.com/matlabcentral/mlc-downloads/downloads/af72b217-588c-4847-ac0f-7f4d1561f32c/8126a482-f2bb-44ec-aada-416e5c2b9309/images/screenshot.png" width="90%"></img></br>
 
 In this demo, I've implemented machine learning based Lithium-Ion battery capacity estimation using multi-Channel charging Profiles.<br/>
 
