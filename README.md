@@ -13,11 +13,7 @@ Throught this example, we will capture each approach described in paper, includi
 - CNN(Convolutional Neural Network)
 - LSTM(Long Short Term Memory Network)
 
-Key message of this demo is to guide the customer who interested in data driven modeling on BMS/ESS/Battery industry.
-Also we can show how easy MATLAB can help them to implement machine learning model of state-of-art research.
-
 Dataset should be downloaded from here: https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#battery
-
 
 [Reference]<br/>
 [1] B. Saha and K. Goebel, ``Battery data set,''NASA AMES Prognostics Data Repository, 2007.<br/>
